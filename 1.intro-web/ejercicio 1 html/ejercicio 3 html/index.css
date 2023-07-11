@@ -1,0 +1,52 @@
+body  {
+    
+   margin: 0%;
+    background-color: #333533;
+}
+header {
+    
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    Flex-direction: column;
+    width: 100%;
+    border: 1px solid white; 
+  
+}
+.headerphoto {
+    width: 400px;
+    align-self: center; /*como ya se especiffico que va centrado en header nadams se usa una etiqueta secundaria aqui*/}
+
+ #encabezado1prin {
+        color:#8338ec;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 32px;
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        Flex-direction: column;
+ }
+    
+#encabezado2 {
+    color:#f15bb5;
+    font-family:Courier New, Courier, monospace;
+    font-size: 24px;
+}
+
+#text {
+    color: #a2d2ff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+
+}
+
+#titulos{
+    color:#060;
+    font-weight: bold;
+}
+
+#hulk {
+    color: #FFF;
+    background-color: #000;
+    font-style: italic;
+}
